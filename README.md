@@ -1,3 +1,3 @@
 # go
 
-Uma pequena API para entender os fundamentos de linguagem GO!.
+Uma pequena API para entender os fundamentos do module net/http GO!.
